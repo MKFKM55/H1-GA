@@ -1,0 +1,7 @@
+*.o
+*.out
+/results/
+*.csv
+*.log
+*.aux
+*.pdf
